@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace GitProject
 {
-    internal class Logic
+    public class Logic
     {
-        int a = 26;
+        public static int PowerOf2(int a)
+        {
+            return a * a;
+        }
     }
 }
