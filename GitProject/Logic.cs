@@ -8,6 +8,6 @@ namespace GitProject
 {
     internal class Logic
     {
-        int a = 25;
+        int a = 26;
     }
 }
